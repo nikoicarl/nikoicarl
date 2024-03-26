@@ -3,7 +3,7 @@
 
 <!-- Bio -->
 ## 🌱 About Me
-Undergraduate student studying Computer Information Systems at Kwantlen Polytechnic University with a passion for tech and innovation. Google IT Support Professional Certificate holder. Let's connect and create cool stuff together!
+Undergraduate student studying Computer Information Systems at Kwantlen Polytechnic University with a passion for tech and innovation. Let's connect and create cool stuff together!
 
 <!-- Experience -->
 ## 💼 Experience
