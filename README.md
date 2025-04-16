@@ -1,7 +1,7 @@
 <!-- Header Section -->
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0ED3CF&width=600&lines=Hi+I'm+Carl+Nikoi!;Full+Stack+Developer+%7C+CIS+Grad+%7C+Tech+Problem+Solver;Let's+Build+Something+Great+Together!" alt="Typing animation" />
-</div>
+</p>
 
 
 <br/>
