@@ -73,10 +73,7 @@ I'm Carl, a creative and detail-oriented full stack developer and IT support ana
 
 ## 📈 GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikoicarl&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" width="48%" />
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikoicarl&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" width="70%" /> </div>
+<table align="center"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikoicarl&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikoicarl&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" /> </td> </tr> </table>
 
 ---
 
