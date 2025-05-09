@@ -58,6 +58,30 @@ I'm Carl, a creative and detail-oriented full stack developer and IT support ana
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikoicarl&show_icons=true&theme=github_dark&count_private=true&hide=issues&border_radius=10" alt="Carl's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikoicarl&layout=compact&theme=github_dark&langs_count=6&border_radius=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nikoicarl&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikoicarl&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📫 Let's Connect!
 
 <p align="center">
