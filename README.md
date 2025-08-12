@@ -79,14 +79,18 @@ I build with efficiency in mind — whether coding responsive interfaces, optimi
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Insights
 
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikoicarl&layout=compact&theme=tokyonight" alt="Top Languages" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=nikoicarl&theme=tokyonight" alt="GitHub Streak" /></td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nikoicarl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikoicarl&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikoicarl&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikoicarl&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
 
 ---
 
