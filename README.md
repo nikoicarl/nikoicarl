@@ -88,8 +88,6 @@ I build with efficiency in mind — whether coding responsive interfaces, optimi
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikoicarl&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikoicarl&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-
 </div>
 
 ---
