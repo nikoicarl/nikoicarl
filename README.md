@@ -96,15 +96,6 @@ Collection of optimization techniques (code splitting, lazy loading, caching) ac
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikoicarl&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikoicarl&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
